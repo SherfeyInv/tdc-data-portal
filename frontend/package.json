@@ -106,7 +106,7 @@
     "maplibre-gl": "^4.7.0",
     "mddb": "^0.9.5",
     "minisearch": "^5.0.0",
-    "next": "13.4.2",
+    "next": "14.2.7",
     "next-auth": "^4.22.4",
     "next-seo": "^6.1.0",
     "next-themes": "^0.2.1",
