@@ -14,6 +14,6 @@
         "test:recorded-parallel": "cypress run --record --key 9b3fe9b0-b8ef-4e2d-895f-17f0a6cc5031 --parallel"
     },
     "dependencies": {
-        "cypress": "^13.3.2"
+        "cypress": "^13.16.1"
     }
 }
