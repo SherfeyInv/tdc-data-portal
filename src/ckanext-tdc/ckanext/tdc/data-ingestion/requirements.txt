@@ -1,3 +1,4 @@
 requests==2.31.0
 openpyxl==3.1.2
 tqdm==4.62.2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
