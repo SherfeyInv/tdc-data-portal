@@ -68,7 +68,7 @@
     "@tiptap/extension-document": "^2.1.12",
     "@tiptap/extension-history": "^2.1.12",
     "@tiptap/extension-italic": "^2.1.12",
-    "@tiptap/extension-link": "^2.1.12",
+    "@tiptap/extension-link": "^2.10.4",
     "@tiptap/extension-list-item": "^2.2.3",
     "@tiptap/extension-paragraph": "^2.1.12",
     "@tiptap/extension-placeholder": "^2.1.13",
